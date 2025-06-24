@@ -135,35 +135,3 @@ document.getElementById('clear-cart').addEventListener('click', ()=>{
 })
 renderProducts()
 
-
-
-
-
-
-
-
-
-
-
-//// Mahsulotlarni savatchaga qo'shish
-//ShoppingCart.addProduct(1, 2); // iPhone 12 qo'shiladi
-//ShoppingCart.addProduct(2, 1); // Samsung Galaxy S21 qo'shiladi
-
-//// Savatchadagi mahsulotlarni ko'rish
-//ShoppingCart.viewCart();
-
-//// Umumiy narxni ko'rish
-//ShoppingCart.getTotalPrice();
-
-//// Mahsulotni savatchadan o'chirish
-//ShoppingCart.removeProduct(1); // iPhone 12 o'chiriladi
-
-//// Savatchadagi mahsulotlarni ko'rish
-//ShoppingCart.viewCart();
-
-//// Savatchani tozalash
-//ShoppingCart.clearCart();
-
-//// Savatchadagi mahsulotlarni ko'rish (bo'sh savatcha)
-//ShoppingCart.viewCart();
-
